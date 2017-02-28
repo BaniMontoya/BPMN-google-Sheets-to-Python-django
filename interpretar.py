@@ -1,3 +1,5 @@
+# Creado por Bani Montoya 2016-2017
+
 # -*- coding: utf-8 -*-
 from django.core.management import BaseCommand
 import gspread
